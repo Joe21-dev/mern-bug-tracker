@@ -1,4 +1,4 @@
-# MERN Bug Tracker
+ah# MERN Bug Tracker
 
 A full-stack bug tracking application built with the MERN stack (MongoDB, Express, React, Node.js) and styled with Tailwind CSS v4 (CDN). The app demonstrates systematic testing, debugging, and error handling best practices.
 
@@ -77,5 +77,4 @@ npm test
 - Try introducing typos or invalid data in the code to see error handling in action
 - Use console logs and DevTools to trace issues
 
-## License
-MIT
+
